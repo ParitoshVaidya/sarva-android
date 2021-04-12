@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sarva</string>
+
+    <string name="facebook_app_id">485559805970806</string>
+    <string name="fb_login_protocol_scheme">fb485559805970806</string>
+
+    <string name="terms">By registering, you confirm that you accept our Terms of Use and Privacy Policy.</string>
+</resources>
