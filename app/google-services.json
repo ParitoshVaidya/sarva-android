@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957902532861",
+    "project_id": "sarva-f224f",
+    "storage_bucket": "sarva-f224f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957902532861:android:96fc3c3a0c4c36d2e70e94",
+        "android_client_info": {
+          "package_name": "com.supersnippets.sarva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957902532861-l9hhtje5u6vds7qul5d9ikndbcahjds9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHZb6G5b5VcDIw_3jHT_PsDdhQZRNAg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957902532861-l9hhtje5u6vds7qul5d9ikndbcahjds9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
