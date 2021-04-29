@@ -12,7 +12,7 @@
 - Simple form validation (Checking all fields for correctness and only one error)
 - UI navigation if user is already logged in and other use cases
 
-Note: fb login will work only after adding key hash to my fb account. app-release.apk file is added in project root with working fb login.
+Note: fb login will work only after adding key hash to fb account. Firebase login requires google-services.json file.
 
 ## Features that can be added with extra time
 
